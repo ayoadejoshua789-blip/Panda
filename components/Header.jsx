@@ -1,6 +1,3 @@
-## components/Header.jsx
-
-```jsx
 export default function Header({ socials = [] }) {
   return (
     <header className="w-full py-6 flex items-center justify-between px-6 md:px-12">
