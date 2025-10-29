@@ -1,6 +1,3 @@
-## pages/index.js
-
-```jsx
 import Head from 'next/head'
 import Header from '../components/Header'
 import Countdown from '../components/Countdown'
