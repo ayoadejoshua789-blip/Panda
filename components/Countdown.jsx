@@ -1,6 +1,3 @@
-## components/Countdown.jsx
-
-```jsx
 import { useEffect, useState } from 'react'
 
 export default function Countdown({ targetDate }) {
