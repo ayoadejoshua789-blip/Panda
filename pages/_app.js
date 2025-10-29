@@ -1,6 +1,3 @@
-## pages/_app.js
-
-```jsx
 import '../styles/globals.css'
 
 export default function App({ Component, pageProps }) {
